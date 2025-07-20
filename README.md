@@ -1,2 +1,2 @@
 # VideoEditorClassic
-AI Video Editor 
+Video Editor 
